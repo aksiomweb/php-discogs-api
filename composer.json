@@ -4,11 +4,6 @@
     "type": "library",
     "keywords": ["discogs", "api"],
     "license": "MIT",
-    "require": {
-    },
-    "require-dev": {
-        "phpunit/phpunit": "~4"
-    },
     "authors": [
         {
             "name": "Richard van den Brand",
